@@ -1,0 +1,10 @@
+net\sourceforge\tess4j\TessAPI1Test.class
+net\sourceforge\tess4j\ProgressMonitor$1.class
+net\sourceforge\tess4j\ProgressMonitor.class
+net\sourceforge\tess4j\util\PdfUtilitiesTest.class
+net\sourceforge\tess4j\TessAPITest.class
+net\sourceforge\tess4j\TestFolderExtraction.class
+net\sourceforge\tess4j\Tesseract1Test.class
+net\sourceforge\tess4j\TesseractTest.class
+net\sourceforge\tess4j\TessAPIImpl.class
+net\sourceforge\tess4j\util\ImageIOHelperTest.class
